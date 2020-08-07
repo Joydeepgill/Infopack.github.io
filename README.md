@@ -14,7 +14,6 @@ Student Number: 8617981
 Student Name: Rachel Harrison
 Username:rachelmharrison
 
--Hello World
 Student ID: 8588628
 Student Name: Seyed Mahdi Etemad
 Username:Mahdietemad
